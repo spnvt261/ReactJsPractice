@@ -1,0 +1,15 @@
+table{
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.25);
+    td,th{
+        border: 1px solid lightgray;
+        padding: 6px 10px;
+    }
+}
+.border-red{
+    border-color: red;
+    th,td{
+        border-color: red;
+    }
+}

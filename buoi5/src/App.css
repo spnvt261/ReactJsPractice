@@ -1,0 +1,10 @@
+.menu-links a{
+    display: block;
+    color: #000;
+    font-size: 1rem;
+    padding: 10px 15px;
+    text-decoration: none;
+    &:hover{
+        background-color: red;
+    }
+}
