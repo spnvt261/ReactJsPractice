@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/node": "^24.5.2",
+    "axios": "^1.12.2",
+    "xmlhttprequest-ts": "^1.0.1"
+  },
+  "name": "buoi1",
+  "version": "1.0.0",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
