@@ -1,0 +1,16 @@
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+.menu-links a {
+    display: block;
+    color: #000000;
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid gray;
+    width: 5rem;
+}

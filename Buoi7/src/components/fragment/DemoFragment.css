@@ -1,0 +1,18 @@
+.table-fragment {
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, .25);
+}
+
+.table-fragment th, .table-fragment td {
+    border: 1px solid lightgray;
+    padding: 6px 10px;
+}
+
+.table-fragment.border-red {
+    border-color: red;
+}
+
+.table-fragment.border-red th, .table-fragment.border-red td {
+    border-color: red;
+}
